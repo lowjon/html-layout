@@ -1,0 +1,42 @@
+body{
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+}
+.leftOne{
+  height: 100vh;
+  width: 33.3vw;
+  background-color: #4A90E2;
+  left: 0;
+  top: 0;
+  display: inline-block;
+  margin-left: -2px;
+  margin-right: -2px;
+}
+.middleOne{
+  height: 100vh;
+  width: 33.4vw;
+  left: 33.3vw;
+  background-color: #50E3C2;
+  top: 0;
+  display: inline-block;
+  margin-left: -2px;
+  margin-right: -2px;
+}
+.rightOne{
+
+  height: 100vh;
+  width: 33.3vw;
+  right:0;
+  background-color: #B8E986;
+  top: 0;
+  display: inline-block;
+  margin-left: -2px;
+  margin-right: -2px;
+}
+.photoOne{
+  height: 20vh;
+  background-color: #D0021B;
+  margin-top: calc(100vh - 20vh);
+  /*background-image: url("#");*/
+}
