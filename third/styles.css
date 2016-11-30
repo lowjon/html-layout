@@ -1,0 +1,56 @@
+.box1{
+  height: 10vh;
+  width: 100vw;
+  background-color: #D8D8D8;
+  display: inline-block;
+
+}
+.subBox{
+  height: 6vh;
+  width: 6vh;
+  background-color: #4A90E2;
+  margin: 2vh;
+  left: 0;
+}
+.box2{
+  height: 30vh;
+  width: 100vw;
+  background-color: #ffffff;
+  display: inline-block;
+
+}
+.textBox{
+  height: 20vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.box3{
+  height: 15vh;
+  width: 100vw;
+  background-color: #4A90E2;
+  display: inline-block;
+
+}
+.box4{
+  height: 15vh;
+  width: 100vw;
+  background-color: #50E3C2;
+  display: inline-block;
+
+}
+.box5{
+  height: 15vh;
+  width: 100vw;
+  background-color: #B8E986;
+  display: inline-block;
+
+}
+.box6{
+  height: 15vh;
+  width: 100vw;
+  background-color: #F8E71C;
+  display: inline-block;
+
+}
